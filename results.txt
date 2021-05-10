@@ -1,0 +1,57 @@
+
+################################
+
+Test_CompressDecompressMaze():
+Maze Original Size - 250012
+Saved Maze Bytes Size - 250012
+Maze Compressed Size - 31263
+compression rate - 12.287410204310193%
+FAILED - maze compressed size bigger than 15,000
+----------------
+total tests: 2
+total pass: 1
+
+CommunicateWithServer_MazeGenerating():
+
+CommunicateWithServer_SolveSearchProblem():
+----------------
+total tests: 4
+total pass: 3
+
+################################
+
+Test_CompressDecompressMaze():
+Maze Original Size - 250012
+Saved Maze Bytes Size - 250012
+Maze Compressed Size - 31263
+compression rate - 12.287410204310193%
+FAILED - maze compressed size bigger than 15,000
+----------------
+total tests: 2
+total pass: 1
+
+CommunicateWithServer_MazeGenerating():
+
+CommunicateWithServer_SolveSearchProblem():
+----------------
+total tests: 4
+total pass: 3
+
+################################
+
+Test_CompressDecompressMaze():
+Maze Original Size - 250012
+Saved Maze Bytes Size - 250012
+Maze Compressed Size - 31263
+compression rate - 12.287410204310193%
+FAILED - maze compressed size bigger than 15,000
+----------------
+total tests: 2
+total pass: 1
+
+CommunicateWithServer_MazeGenerating():
+
+CommunicateWithServer_SolveSearchProblem():
+----------------
+total tests: 4
+total pass: 3
